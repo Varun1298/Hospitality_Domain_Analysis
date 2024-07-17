@@ -29,7 +29,7 @@ a. **Domain Knowledge**
 10. BRN – Total Bookings(customer stayed + No show + Cancelled)
 11. Realization – URN / BRN
 
-b.** PowerBI**
+b. **Power BI**
 
 1.Power Query (Basic and Advanced Operations)
 2.Basic and complex DAX formulas 
